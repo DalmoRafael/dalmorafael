@@ -1,4 +1,6 @@
-<h1 align="center">Dalmo Rafael</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3500&lines=Dalmo%20Rafael!;+Estudante%20UJ;+Ciência%20da%20Computação;&color=#0a2345" />
+</h1>
 
 ![dalmorafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=dalmorafael&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dalmorafael&layout=compact&theme=transparent)
