@@ -14,6 +14,9 @@
   <img align="center" alt="Dalmo-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="Dalmo-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
+<img src="https://raw.githubusercontent.com/dalmorafael/dalmorafael/output/snake.svg" alt="Snake animation" />
+
+###
 
 
 ## 🌐 Socials:
