@@ -2,9 +2,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3500&lines=Dalmo%20Rafael!;+Estudante%20UJ;+Ciência%20da%20Computação;&color=#0a2345" />
 </h1>
 
-![dalmorafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=dalmorafael&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dalmorafael&layout=compact&theme=transparent)
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Dalmo-Java" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Dalmo-C" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
